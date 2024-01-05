@@ -2,18 +2,17 @@
 
 A simple React tasks app that allows users to create, display, edit, and delete tasks. The app provides a clean and user-friendly interface, implementing various features to enhance the user experience.
 
-Live URL - https://taketasks-react.netlify.app/
+Live URL - https://taskmanagement-react.netlify.app/
 
 ## Features
 
 ### Task Creation
 
-- Create a new task with a title and body text.
-- Include basic text formatting options, such as bold and italic.
+- Create a new task.
 
 ### Task Display
 
-- Display a list of tasks with their titles and a snippet of the body text.
+- Display the list of tasks.
 - Provide an option to view the full task in a separate view or modal.
 
 ### Edit and Delete Functionality
@@ -43,7 +42,7 @@ Follow these steps to set up and run the React Tasks App:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/poornesh-chenna/react-tasks-app.git
+   git clone https://github.com/poornesh-chenna/ResoTech-assignment.git
    ```
 2. **Navigate to the Project Directory:**
    ```
@@ -62,8 +61,10 @@ Follow these steps to set up and run the React Tasks App:
 
 ## Screenshots
 
-![Screenshot 1](screenshots/tasks-desktop.png)
+![Screenshot 1](screenshots/tasks.png)
 
-![Screenshot 2](screenshots/tasks-edit.png)
+![Screenshot 2](screenshots/tasks_edit.png)
 
-![Screenshot 3](screenshots/tasks-mobile.png)
+![Screenshot 3](screenshots/tasks-done.png)
+
+![Screenshot 4](screenshots/tasks-mobile.png)
