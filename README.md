@@ -63,8 +63,8 @@ Follow these steps to set up and run the React Tasks App:
 
 ![Screenshot 1](screenshots/tasks.png)
 
-![Screenshot 2](screenshots/tasks_edit.png)
+![Screenshot 2](screenshots/task_edit.png)
 
-![Screenshot 3](screenshots/tasks-done.png)
+![Screenshot 3](screenshots/task-done.png)
 
 ![Screenshot 4](screenshots/tasks-mobile.png)
